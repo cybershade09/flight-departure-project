@@ -1,0 +1,26 @@
+Flight Number,Departure,Destination,Departure Time,Arrival Time
+SQ1151,Singapore (SIN),Tokyo (HND),4:45,9:00
+SQ121,Singapore (SIN),London (LHR),5:45,11:30
+SQ111,Singapore (SIN),Sydney (SYD),6:30,10:45
+SQ919,Singapore (SIN),Dubai (DXB),7:00,10:30
+SQ1353,Singapore (SIN),Sydney (SYD),7:15,11:30
+SQ141,Singapore (SIN),Frankfurt (FRA),7:30,14:00
+SQ101,Singapore (SIN),Kuala Lumpur (KUL),8:00,9:15
+SQ202,Singapore (SIN),Jakarta (CGK),9:30,11:45
+SQ1555,Singapore (SIN),Bangkok (BKK),9:45,13:00
+SQ333,Singapore (SIN),New Delhi (DEL),10:30,14:45
+SQ313,Singapore (SIN),Seoul (ICN),11:15,15:30
+SQ343,Singapore (SIN),Amsterdam (AMS),11:45,18:15
+SQ404,Singapore (SIN),Bangkok (BKK),12:15,14:30
+SQ535,Singapore (SIN),Perth (PER),12:15,16:30
+SQ1757,Singapore (SIN),Jakarta (CGK),12:15,15:30
+SQ515,Singapore (SIN),Mumbai (BOM),12:30,16:15
+SQ545,Singapore (SIN),Zurich (ZRH),12:45,19:30
+SQ606,Singapore (SIN),Manila (MNL),14:30,17:00
+SQ808,Singapore (SIN),Hong Kong (HKG),17:45,20:30
+SQ737,Singapore (SIN),Taipei (TPE),18:20,21:45
+SQ1010,Singapore (SIN),Tokyo (HND),19:00,22:45
+SQ747,Singapore (SIN),Paris (CDG),20:00,02:30 (+1)
+SQ717,Singapore (SIN),Beijing (PEK),21:30,01:45 (+1)
+SQ939,Singapore (SIN),Mumbai (BOM),21:30,01:45 (+1)
+SQ949,Singapore (SIN),Seoul (ICN),23:30,04:45 (+1)
